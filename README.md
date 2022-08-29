@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning computer science while i hold a math degree. Having CS knowledge will
 open new job opportunities
-- 📫 How to reach me through email. thanks :)
+- 📫 Reach me through email. thanks :)
 
 <!---
 juansalazar26/juansalazar26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
